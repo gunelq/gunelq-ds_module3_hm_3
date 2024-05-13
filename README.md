@@ -12,9 +12,13 @@ We need to create a Python script that analyzes the records to calculate each of
 
 
 a) The total number of months included in the dataset
+
 b) The net total amount of "Profit/Losses" over the entire period
+
 c) The changes in "Profit/Losses" over the entire period, and then the average of those changes
+
 d) The greatest increase in profits (date and amount) over the entire period
+
 e) The greatest decrease in profits (date and amount) over the entire period
 
 
