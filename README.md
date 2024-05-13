@@ -1,6 +1,7 @@
 # gunelq-ds_module3_hm_3
 Homework for Module 3-Python
-For this task we have two csv files . PyBank and PyPoll.
+For this task we have two csv files :
+PyBank and PyPoll.
 
 
 For Py Bank : 
@@ -8,6 +9,8 @@ For Py Bank :
 
 We need to  analyze the financial records of the company. We have a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 We need to create a Python script that analyzes the records to calculate each of the following values:
+
+
 a) The total number of months included in the dataset
 b) The net total amount of "Profit/Losses" over the entire period
 c) The changes in "Profit/Losses" over the entire period, and then the average of those changes
